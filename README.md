@@ -53,9 +53,3 @@ Evaluating improvements in areas such as:
 - Scalability
 - Cost
 - Decision-making
-
-### 05 — What did I learn?
-Documenting the practical trade-offs, limitations, and situations where the technology is most appropriate.
-    ├── workflow-automation.md
-    ├── business-app.md
-    └── integrated-erp.md
