@@ -27,8 +27,7 @@ Learned how a no-code platform can transform structured spreadsheet data into a 
 **Glide Free Version** — Application developed and tested using the free version; publishing and broader deployment can be enabled through a paid Glide plan.
 
 ## Screenshot
-
-![Glide App](./screenshots/glide-app.png)
+![Glide App](./glideapp.png)
 
 ### Tools Used
 
